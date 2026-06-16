@@ -1,4 +1,4 @@
-# app.py
+# app.py jjjjj
 from flask import Flask, jsonify
 import speech_recognition as sr
 from deep_translator import GoogleTranslator
